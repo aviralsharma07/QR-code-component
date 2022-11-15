@@ -40,17 +40,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 1. Importing Font Styles to CSS File
-2. CSS reset
-```css
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-```
-3. Limiting Body Height using `vh`.
-4. `max-width` can be used to make a div conatainer responsive.
-5. `position:absolute` and less bottom margin fixes footer to end of webpage. 
+2. Write clean code and don't use 'div' if not necessary.
+3. Limiting Body Height using `vh` and use min-height.
+4. use `weight` instead of `b` for Text.
+5. Prefer using **px** for Border Radius than **%**
 
 
 ### Continued development
