@@ -59,7 +59,7 @@ const proudOfThisFunc = () => {
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Moving ahead, I want to create more complex projects by improving grasp on Flexbox, positioning and typography. I'll be exploring Mobile first approach to make my projects highly responsive. I will revise and use Box-Model i.e, Padding and Margin to my advantage in next projects.
 
 ### Useful resources
 
