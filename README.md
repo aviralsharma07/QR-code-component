@@ -39,23 +39,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+1. Importing Font Styles to CSS File
+2. CSS reset
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+3. Limiting Body Height using `vh`.
+4. `max-width` can be used to make a div conatainer responsive.
+5. `position:absolute` and less bottom margin fixes footer to end of webpage. 
+
 
 ### Continued development
 
