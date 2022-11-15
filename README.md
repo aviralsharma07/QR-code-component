@@ -66,7 +66,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Learn FlexBox - Kevin Powell](https://youtu.be/u044iM9xsWU) - This Video by the CSS Guru Kevin helped me to understand the basics of FlexBox.
 - [CSS Course on FreeCodeCamp](https://youtu.be/OXGznpKZ_sA) - This is a amazing all in one course for CSS by Dave Gray.
 - [Netlify](https://www.netlify.com/) - Netlify allows you to deploy your project live on web for free.
-- [Solutions on frontendmentor.io Website](https://www.frontendm
+- [Solutions on Frontend Mentor](https://www.frontendmentor.io/solutions) - I refer other's solution to same project when I got stuck.
 
 ## Author
 
