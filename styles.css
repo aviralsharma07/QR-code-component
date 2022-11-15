@@ -7,62 +7,61 @@
 
 body{
     background-color: hsl(212, 45%, 89%);
-    height: 100vh
-}
-.box{
-    margin: auto;
-    margin-top: 3rem;
-    padding: 1rem;
-    max-width: 20rem;
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    border-radius: 3%;
-    background-color: white;
+    min-height: 100vh
 }
 
-.qrCode img{
-    display: block;
-    border-radius: 3%;
-    width: 100%;
+.box{
+    margin: 2.5rem;
+    display: flex;
+    flex-flow: column;
+    background-color: white;
+    border-radius: 15px;
+    max-width: 20rem;
+    padding: 1rem;
+}
+
+.box img{
+    max-width: 18rem;
+    height: auto;
+    border-radius: 15px;
 }
 
 .textBox{
     text-align: center;
-    padding: 1.5rem 0 0.5rem 0;
+    padding: 0.5rem;
+    font-family:'Outfit', sans-serif;
 }
 
 .textBox h1{
-    font-family: 'Outfit',sans-serif;
+    font: 1.5rem;
     color: hsl(218, 44%, 22%);
-    font-size: 1.4rem;
     font-weight: 700;
-    margin-bottom: 1rem;
+    margin: 1.2rem 0 1rem 0;
+}
+.textBox p{
+    font: 0.8rem;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    max-width: 25ch;
 }
 
-.textBox p{
-    font-family: 'Outfit',sans-serif;
-    font-size: 0.96rem;
-    font-weight: 400;
-    margin: 0.5rem 0;
-    color: hsl(220, 15%, 55%);
-}
 
 .attribution{
-    bottom: 10px;
-    width: 100%;
-    position: absolute;
+    text-align: center;
+    font-weight: bold;
 }
 
 .attribution p{
-    font-size: 0.8rem;
-    color: hsl(212, 7%, 60%);
-    margin: 1.8rem auto auto 0;
     text-align: center;
+    font-size: 0.9375rem;
+    margin: 1.8rem;
+    color: hsl(220, 15%, 55%)
 }
 
 .attribution a{
     font-size: 0.8rem;
     text-decoration: underline;
-    color: hsl(212, 7%, 60%);
+    color: hsl(220, 15%, 55%)
 }
