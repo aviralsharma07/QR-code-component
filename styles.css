@@ -20,6 +20,7 @@ body{
     border-radius: 15px;
     max-width: 20rem;
     padding: 1rem;
+    box-shadow: .25px .25px;
 }
 
 .box img{
@@ -47,9 +48,7 @@ body{
     max-width: 25ch;
 }
 
-
 .attribution{
-    text-align: center;
     font-weight: bold;
 }
 
