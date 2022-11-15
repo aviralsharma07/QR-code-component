@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <p float="left">
 <img src="https://github.com/aviralsharma07/QR-code-component/blob/323cff2e0237e363a7812a7beb92a6389931fe6f/screenshots/mobileSS.png" width="20%" height="347px">
-<img src="https://github.com/aviralsharma07/QR-code-component/blob/323cff2e0237e363a7812a7beb92a6389931fe6f/screenshots/desktopSS.png" width="79%">
+<img src="https://github.com/aviralsharma07/QR-code-component/blob/323cff2e0237e363a7812a7beb92a6389931fe6f/screenshots/desktopSS.png" width="79%" height="347px">
 </p>
 
 ### Links
